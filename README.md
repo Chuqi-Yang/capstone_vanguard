@@ -18,8 +18,8 @@ To understand how investment companies are clustered and behave based on their s
 
 ## Contributors
 
-Rui Bai (rb3454)
-Xinyi Liu (xl2904)
-Yichi Liu (yl4327)
-Yuchen Pei (yp2533)
+Rui Bai (rb3454)  
+Xinyi Liu (xl2904)  
+Yichi Liu (yl4327)  
+Yuchen Pei (yp2533)  
 Yujing Song (ys3251)
