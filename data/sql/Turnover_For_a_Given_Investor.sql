@@ -1,0 +1,10 @@
+SELECT [LgcyInvestorId]
+      ,[IncWrntsCert]
+      ,[CalcBasisCode]
+      ,[EffectFromDate]
+      ,[EffectToDate]
+      ,[InvestorId]
+      ,[OwnTurnover]
+      ,[OwnTurnoverRtng]
+  FROM [dbo].[Own2InvHldgsTO]
+  WHERE EffectFromDate >= '2016-06-30' AND EffectFromDate <= '2020-06-30' AND LgcyInvestorId = '2006452'  -- Citadel
